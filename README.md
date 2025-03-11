@@ -6,10 +6,10 @@ A MATLAB project that detects circular objects in images using imfindcircles, ha
 <ul>
   <li>Detects circles with Hough Transform</li>
   <li>Adjustable sensitivity and edge detection</li>
-</ul><br>
+</ul>
 <b>Applications: </b> Quality control, Particle analysis etc<br>
 
- 
+ <br>
 <b>Project 02: </b>License Plate Recognition (LPR) using MATLAB<br>
 This MATLAB project detects and extracts license plates from vehicle images using image processing techniques. It includes edge detection, morphological operations, character segmentation, and OCR for number plate recognition.<br>
 <b>Features:</b><br>
